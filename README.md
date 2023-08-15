@@ -15,3 +15,7 @@ Jak ho používat:
 Příklad
 obec Kladno
 "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103" "vysledky_kladno.csv"
+Ukázka výstupního .csv souboru:
+
+![image](https://github.com/AleksGus/Engeto-Projekt_3/assets/128379968/6f7e04aa-f617-4616-a404-d86fe89e3e48)
+
